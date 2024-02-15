@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Image :
+![image](https://github.com/anshkhandelwal12/Codepen-Clone/assets/59608260/76939f6f-1936-4847-9773-197368a68571)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -71,6 +74,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 
-### Image :
-![image](https://github.com/anshkhandelwal12/Codepen-Clone/assets/59608260/76939f6f-1936-4847-9773-197368a68571)
+
 
